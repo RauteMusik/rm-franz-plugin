@@ -1,0 +1,13 @@
+{
+  "id": "rautemusik",
+  "name": "RauteMusik",
+  "version": "1.0.0",
+  "description": "RauteMusik",
+  "main": "index.js",
+  "author": "Jonas Terhaar <terhaar.jonas@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/RauteMusik/rm-franz-plugin/",
+  "config": {
+    "serviceURL": "https://rm.fm"
+  }
+}
